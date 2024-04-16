@@ -1,0 +1,9 @@
+python-dotenv
+Django~=5.0.4
+psycopg2
+requests~=2.31.0
+pillow
+django-celery-beat
+celery[redis]
+django-celery-results
+flower
